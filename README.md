@@ -1,4 +1,5 @@
 ### Tienda-Impresoras API 🖨️🛒
+### SLIM Framework PHP + MySQL + JWT
 
 Este proyecto utiliza Slim Framework para gestionar una tienda virtual de impresoras y cartuchos, permitiendo operaciones como alta de productos, consultas de stock y ventas, junto con autenticación de usuarios mediante JWT.🔐
 Basado en la consigna del Segundo Parcial de la materia Programación III.
