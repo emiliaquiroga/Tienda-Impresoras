@@ -1,0 +1,10 @@
+id,email_usuario,marca,tipo,modelo,cantidad,precio_total,fecha,numero_pedido
+1,emilia@gmail.com,hp,impresora,xpsuper400,9,20000,"2024-06-24 14:02:20",9001
+2,felix,hp,impresora,xpsuper400,10,50000,"2024-06-24 14:20:19",3001
+3,maria,exxon,cartucho,mimodelo,3,2100,"2024-06-24 14:27:41",7801
+4,pedrito,lenovo,cartucho,thinkpad,1,40500,"2024-06-24 16:38:40",0001
+5,emilia,lenovo,cartucho,thinkpad,5,202500,"2024-06-25 10:02:45",0301
+6,emilia,hp,impresora,xpsuper400,6,30000,"2024-06-25 10:08:11",191
+7,felix,hp,impresora,xpsuper400,1,5000,"2024-06-25 10:08:48",1180
+8,carlitos,lenovo,cartucho,thinkpad,2,81000,"2024-06-25 13:38:02",2201
+9,mengano,lenovo,cartucho,thinkpad,2,81000,"2024-06-25 17:46:48",8501
